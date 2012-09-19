@@ -44,7 +44,7 @@ namespace SapReports
             {
                 Height = 300,
                 Width = 600,
-                DefaultSeriesType = ChartTypes.Bar,
+                DefaultSeriesType = ChartTypes.Line,
                 ClassName = "chart"
             })
             .SetTitle(new Title

@@ -6,7 +6,6 @@ C:\Projects\SapConnectReports\SapReports\bin\SapConnect.Reports.pdb
 C:\Projects\SapConnectReports\SapReports\obj\Debug\SapReports.csprojResolveAssemblyReference.cache
 C:\Projects\SapConnectReports\SapReports\obj\Debug\SapReports.dll
 C:\Projects\SapConnectReports\SapReports\obj\Debug\SapReports.pdb
-C:\Users\sandeep.chanda\Documents\GitHub\NeuConnect-Services\SapReports\obj\Debug\SapReports.csprojResolveAssemblyReference.cache
 C:\Users\sandeep.chanda\Documents\GitHub\NeuConnect-Services\SapReports\obj\Debug\SapReports.pdb
 C:\Users\sandeep.chanda\Documents\GitHub\NeuConnect-Services\SapReports\bin\SapReports.dll
 C:\Users\sandeep.chanda\Documents\GitHub\NeuConnect-Services\SapReports\bin\SapReports.pdb
