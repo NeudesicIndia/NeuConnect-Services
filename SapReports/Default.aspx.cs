@@ -42,6 +42,8 @@ namespace SapReports
             DotNet.Highcharts.Highcharts chart = new DotNet.Highcharts.Highcharts("chart")
             .InitChart(new Chart
             {
+                Height = 300,
+                Width = 600,
                 DefaultSeriesType = ChartTypes.Line,
                 ClassName = "chart"
             })
